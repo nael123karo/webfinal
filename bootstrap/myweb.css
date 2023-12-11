@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 50px rgba(235, 9, 9, 0.1);
+}
+
+
+main table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+main th, main td {
+    padding: 8px;
+    border: 1px solid #350606;
+    text-align: left;
+    background-color: #fff;
+}
+
+
+.hobby-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+
+
+
+
+.info {
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px;
+    font-size: 13px;
+}
+
+.info small {
+    margin-bottom: 20px;
+    display: inline-block;
+    list-style-type: none;
+    padding: 25px;
+    font-size: 13px;
+    margin-left: -20px;
+}
+
+
